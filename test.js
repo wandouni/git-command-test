@@ -10,6 +10,8 @@ const sum4 = (a, b) => a + b;
 
 const sum5 = (a, b) => a + b;
 
+const sum6 = (a, b) => a + b;
+
 const sumMain = (a, b) => a + b;
 
 const sumMain1 = (a, b) => a + b;
