@@ -15,3 +15,5 @@ const sumMain = (a, b) => a + b;
 const sumMain1 = (a, b) => a + b;
 
 const sumMain2 = (a, b) => a + b;
+
+const sumMain3 = (a, b) => a + b;
