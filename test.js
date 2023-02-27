@@ -25,6 +25,4 @@ const sumMain3 = (a, b) => a + b;
 const sumMain4 = (a, b) => a + b;
 
 // main 1 2
-// feature wandou 1 2
 // feature wandou 1 2 3
-// main 1
